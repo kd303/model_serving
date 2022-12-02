@@ -45,6 +45,7 @@ Interesting articles, PoCs for model serving - from small, large to multiple ser
 1. [Microsot fastformers](https://github.com/microsoft/fastformers)
 2. [Nvidia's FasterTransformers](https://github.com/NVIDIA/FasterTransformer)
 3. [DLJServing](https://github.com/deepjavalibrary/djl-serving)
+4. [Netflix's take on Dlj](https://aws.amazon.com/blogs/opensource/how-netflix-uses-deep-java-library-djl-for-distributed-deep-learning-inference-in-real-time/)
 
 
 ## Good Articles
