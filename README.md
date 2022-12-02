@@ -24,11 +24,16 @@ Interesting articles, PoCs for model serving - from small, large to multiple ser
    1. SFTP/FTP/S3/Object stores/Ceph/file system/HDFS
    
 ## Other Aspects
-
 1. Model Pruning
+   1. Protobuff/json etc.
+   2. Http/Websocket/gRPC
 2. Model Quantization
-   a. Quantization pipeline (pre-deployments)
-   b. Quantization aware training
+   1. Quantization pipeline (pre-deployments)
+   2. Quantization aware training
+3. Microservice Aspects
+   1. A/B Deployemnts, Shadow deployments, 
+   2. Auto Scaling
+
 
 ## Secondary Aspects
 
